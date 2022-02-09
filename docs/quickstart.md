@@ -7,7 +7,7 @@
         - Note (Windows Only): Accept all of the defaults during the installation process
 2) Generate an SSH key
     - Sign into [Github](https://github.com)
-    - To generate a key, follow the instructions [here](hhttps://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+    - To generate a key, follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
     - To add the newly generated key to Github, follow the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 3) Create a repository
     - Sign into [Github](https://github.com) (if not already signed in)
